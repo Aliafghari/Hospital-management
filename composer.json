@@ -1,0 +1,19 @@
+{
+    "name": "eiffelrayan/test-mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\":"./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aliafghari",
+            "email": "Aliafghari4@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "catfan/medoo": "^2.1",
+        "phpmailer/phpmailer": "^6.7"
+    }
+}
